@@ -1,6 +1,6 @@
-# 🏥 CareTract – Healthcare Management System
+# 🏥 CareTrack – Healthcare Management System
 
-CareTract is a web-based Healthcare Management System designed to streamline hospital operations including patient management, appointment scheduling, doctor records, and administrative tasks.
+CareTrack is a web-based Healthcare Management System designed to streamline hospital operations including patient management, appointment scheduling, doctor records, and administrative tasks.
 
 ---
 
@@ -11,7 +11,7 @@ CareTract is a web-based Healthcare Management System designed to streamline hos
 - 📅 Appointment Scheduling System
 - 🏢 Admin Dashboard
 - 💾 Secure Database Integration
-- 🔐 Authentication & Authorization (if implemented)
+- 🔐 Authentication & Authorization 
 
 ---
 
@@ -20,16 +20,16 @@ CareTract is a web-based Healthcare Management System designed to streamline hos
 **Frontend:**
 - HTML
 - CSS
-- JavaScript (if used)
+- JavaScript
 
 **Backend:**
-- Java / Spring Boot (if used)
+- Java 
 
 **Database:**
 - MySQL
 
 **Tools:**
-- Eclipse / IntelliJ
+- Eclipse 
 - Postman
 - Git & GitHub
 
